@@ -6,7 +6,7 @@
 - E-commerce Product Search
 - Financial Forecasting
 
-##  Bonus Practice:
+##  Extra Practice:
 - Proxy Pattern
 - Sorting Orders
 - Library Management
